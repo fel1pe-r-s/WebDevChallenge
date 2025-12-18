@@ -31,5 +31,15 @@
     "json-server": "^1.0.0-alpha.23",
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
-  }
+  },
+  "description": "Ol\u00e1!",
+  "keywords": [
+    "docker",
+    "html",
+    "markdown",
+    "node",
+    "react",
+    "typescript",
+    "zod"
+  ]
 }
